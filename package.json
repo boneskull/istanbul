@@ -89,7 +89,7 @@
     "async": "1.x",
     "escodegen": "1.6.x",
     "esprima": "2.4.x",
-    "estraverse": "4.x",
+    "estraverse": "boneskull/estraverse#browserify",
     "fileset": "0.2.x",
     "handlebars": "3.0.0",
     "js-yaml": "3.x",
